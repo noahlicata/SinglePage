@@ -375,6 +375,11 @@ p {
 #projects .project-info p {
   color: white;
 }
+
+.project-img {
+  cursor: pointer;
+}
+
 #projects .project-img {
   flex-basis: 50%;
   height: 300px;
